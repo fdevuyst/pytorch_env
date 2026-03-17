@@ -19,6 +19,8 @@ dependencies:
   - scipy
   - matplotlib
   - seaborn
+  - torch
+  - torchvision
   # Jupyter archive
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
@@ -26,5 +28,3 @@ dependencies:
   - pip:
     # Print module version
     - watermark
-    - torch
-    - torchvision
