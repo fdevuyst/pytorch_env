@@ -26,4 +26,4 @@ dependencies:
   - pip:
     # Print module version
     - watermark
-    - jax
+    - pytorch
