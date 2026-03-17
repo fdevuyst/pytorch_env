@@ -26,4 +26,5 @@ dependencies:
   - pip:
     # Print module version
     - watermark
-    - pytorch
+    - torch
+    - torchvision
