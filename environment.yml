@@ -19,7 +19,7 @@ dependencies:
   - scipy
   - matplotlib
   - seaborn
-  - torch
+  - pytorch
   - torchvision
   # Jupyter archive
   # https://github.com/jupyterlab-contrib/jupyter-archive
